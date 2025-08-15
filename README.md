@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://discord.com/users/467540097772945409">
-    <img src="https://lanyard.cnrad.dev/api/467540097772945409?showDisplayName=true&idleMessage=Just%20a%20normal%20developer" alt="Discord Presence"/>
-  </a>
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/467540097772945409)](https://discord.com/users/467540097772945409)
 
 ---
 
