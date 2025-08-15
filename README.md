@@ -80,15 +80,6 @@ I'm **Ho Ngoc An**, a passionate **Full-Stack Developer** with a focus on **Web 
   </a>
 </div>
 
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=omni" alt="Random Dev Quote"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KyungUwU&style=flat-square&color=blue" alt="Profile Views"/>
