@@ -1,4 +1,6 @@
+<div class="justify-center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/467540097772945409)](https://discord.com/users/467540097772945409)
+</div>
 
 ---
 
