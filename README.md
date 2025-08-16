@@ -1,7 +1,8 @@
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/467540097772945409)](https://discord.com/users/467540097772945409)
-
-
+<div align="center">
+  <a href="https://discord.com/users/1291013382849167542">
+    <img src="https://lanyard.cnrad.dev/api/467540097772945409?showDisplayName=true&idleMessage=Just%20a%20normal%20developer" alt="Discord Presence"/>
+  </a>
+</div>
 ---
 
 ## 🚀 About Me
